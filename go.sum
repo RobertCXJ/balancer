@@ -1,0 +1,4 @@
+github.com/lafikl/consistent v0.0.0-20220512074542-bdd3606bfc3e h1:DuhzIzxOx3aJ0j4enY7SQ9bvulrT/XjkGAqiychfavc=
+github.com/lafikl/consistent v0.0.0-20220512074542-bdd3606bfc3e/go.mod h1:JmowInJuqa6EpSut8NSMAZtlvK9uL+8Q1P7tyew5rQY=
+github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1 h1:lYpkrQH5ajf0OXOcUbGjvZxxijuBwbbmlSxLiuofa+g=
+github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1/go.mod h1:pD8RvIylQ358TN4wwqatJ8rNavkEINozVn9DtGI3dfQ=
